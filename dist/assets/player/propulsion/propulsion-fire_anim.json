@@ -1,0 +1,12 @@
+{
+    "propulsion-fire": {
+        "frames": [
+            "propulsion-fire-1.png",
+            "propulsion-fire-2.png",
+            "propulsion-fire-3.png",
+            "propulsion-fire-4.png"
+        ],
+        "frameRate": 10,
+        "repeat": -1
+    }
+}
